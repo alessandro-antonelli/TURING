@@ -4,7 +4,7 @@ TURING: disTribUted collaboRative edItiNG - Client
 Programma sviluppato singolarmente da Alessandro Antonelli, matricola 507264
 */
 
-package turing;
+package turing.client;
 
 import turing.exceptions.*;
 import turing.tipidato.*;

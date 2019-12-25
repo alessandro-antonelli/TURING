@@ -8,7 +8,7 @@ Programma sviluppato singolarmente da Alessandro Antonelli, matricola 507264
  * Questo programma costituisce il server di uno strumento per l'editing collaborativo di documenti.
  */
 
-package turing;
+package turing.server;
 
 /* 
  *		MainClass

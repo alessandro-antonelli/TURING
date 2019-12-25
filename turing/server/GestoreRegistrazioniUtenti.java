@@ -4,7 +4,7 @@ TURING: disTribUted collaboRative edItiNG - Server
 Programma sviluppato singolarmente da Alessandro Antonelli, matricola 507264
 */
 
-package turing;
+package turing.server;
 
 import java.rmi.AlreadyBoundException;
 import java.rmi.NotBoundException;

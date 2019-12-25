@@ -1,10 +1,10 @@
 /*
 Università di Pisa - Laboratorio del corso di Reti di Calcolatori - A.A. 2018-2019
-TURING: disTribUted collaboRative edItiNG - Client
+TURING: disTribUted collaboRative edItiNG - Server
 Programma sviluppato singolarmente da Alessandro Antonelli, matricola 507264
 */
 
-package turing;
+package turing.server;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
