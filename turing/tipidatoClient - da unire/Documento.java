@@ -12,6 +12,7 @@ Codice sviluppato singolarmente da Alessandro Antonelli, matricola 507264
  * 
  * I tipi DocumentoConDettagli e DocumentoLatoServer estendono questa classe, aggiungendo ulteriori informazioni sul documento
  * alla rappresentazione fornita da questo tipo.
+ PROVA - DA CANCELLARE
  */
 
 package turing.tipidato;
