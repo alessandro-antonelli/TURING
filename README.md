@@ -1,5 +1,5 @@
 # TURING (disTribUted collaboRative edItiNG)
-![Schermata iniziale](/screenshot/client inizio.png)
+![Schermata iniziale](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/client%20inizio.png)
 
 Un'applicazione client-server che realizza uno strumento per l'editing collaborativo di documenti testuali da parte di più utenti, con un insieme di funzioni minimale.
 
@@ -9,17 +9,19 @@ Progetto finale del Laboratorio di Programmazione di Reti dell'A.A. 2018/19, ten
 
 Homepage del corso: https://elearning.di.unipi.it/course/view.php?id=136
 
+## Screenshot
+
 ##### Lista dei comandi
-!(/screenshot/client help.png)
+![](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/client%20help.png)
 
 ##### Modifica di un documento
-!(/screenshot/client edit.png)
+![](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/client%20edit.png)
 
 ##### Condivisione di un documento
-!(/screenshot/client share.png)
+![](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/client%20share.png)
 
 ##### Chat tra i collaboratori
-!(/screenshot/client chat.png)
+![](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/client%20chat.png)
 
 ##### Statistiche del server
-!(/screenshot/server stats.png)
+![](https://github.com/alessandro-antonelli/TURING/blob/master/screenshot/server%20stats.png)
