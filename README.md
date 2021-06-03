@@ -11,22 +11,23 @@ Sviluppato come progetto finale del Laboratorio di Programmazione di Reti dell'A
 
 Homepage del corso: https://elearning.di.unipi.it/course/view.php?id=136
 
-## Istruzioni
+## Istruzioni per sistemi Linux
 
-`` bash session
+```bash session
 #download sorgenti e compilazione
 git clone https://github.com/alessandro-antonelli/TURING
-javac TURING/Server/turing/*.java
-javac TURING/Client/turing/*.java
+cd TURING/Client
+javac turing/*.java
+cd ../Server
+javac turing/*.java
 
 #avvio server
-cd TURING/Server/
-java turing.MainClass &
+gnome-terminal --title="Server TURING" -- java turing.MainClass
 
 #avvio client
 cd ../Client
 java turing.MainClass
-``
+```
 
 ## Screenshot
 
